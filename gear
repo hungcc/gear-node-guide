@@ -1,6 +1,0 @@
-# Install with pre-build binary
-
-`wget https://builds.gear.rs/gear-nightly-linux-x86_64.tar.xz && \
-tar xvf gear-nightly-linux-x86_64.tar.xz && \
-rm gear-nightly-linux-x86_64.tar.xz && \
-chmod +x gear-node`
