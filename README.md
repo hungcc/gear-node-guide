@@ -42,3 +42,7 @@ Automatically get it to start on boot:
 How to check status of gear-node service?
 
 `sudo systemctl status gear-node`
+
+# Check on Telemetry
+
+https://telemetry.gear-tech.io/
